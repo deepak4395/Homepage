@@ -17,6 +17,21 @@ const siteConfig = {
       label: "Spiritual Blog", 
       url: "https://blog.sarcasticrobo.online", 
       icon: "🕉️" 
+    },
+    {
+      label: "Uptime Kuma",
+      url: "https://monitor.sarcasticrobo.online",
+      icon: "📊"
+    },
+    {
+      label: "OpenClaw",
+      url: "https://openclaw.sarcasticrobo.online",
+      icon: "🦀"
+    },
+    {
+      label: "Open WebUI",
+      url: "https://ai.sarcasticrobo.online",
+      icon: "🤖"
     }
   ]
 };
