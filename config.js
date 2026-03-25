@@ -32,6 +32,11 @@ const siteConfig = {
       label: "Open WebUI",
       url: "https://ai.sarcasticrobo.online",
       icon: "🤖"
+    },
+    {
+      label: "Dify AI",
+      url: "https://dify.sarcasticrobo.online",
+      icon: "🤖"
     }
   ]
 };
